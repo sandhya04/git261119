@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 hello world
 good evening
+=======
+welcome
+>>>>>>> future_branch1
