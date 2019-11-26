@@ -6,3 +6,4 @@ good evening
 welcome
 >>>>>>> future_branch1
 hello
+hello
